@@ -1,16 +1,44 @@
-## Hi there 👋
+# Selman Cüzdan 👨‍💻
 
-<!--
-**selmancuzdan42/selmancuzdan42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Merhaba! Ben **Selman**, 11. sınıf bilişim teknolojileri öğrencisiyim. Teknolojiye, yazılıma ve özellikle **IoT (Nesnelerin İnterneti)** sistemlerine büyük ilgi duyuyorum. 🚀  
+Şu anda hem **Arduino** hem de **ESP8266 (NodeMCU V3)** kartlarıyla projeler geliştiriyorum. Ayrıca **siber güvenlik**, **web geliştirme** ve **oyun geliştirme** konularına da meraklıyım.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 İlgi Alanlarım
+- 🔌 **IoT Projeleri** → Sensör verilerini izleme, otomasyon sistemleri  
+- 🛡️ **Siber Güvenlik** → Kali Linux, CTF yarışmaları, ağ güvenliği  
+- 🌐 **Web Geliştirme** → HTML, CSS, JavaScript, Firebase  
+- ⚙️ **Arduino & ESP8266** → DHT11, manyetik sensör, buzzer, LED sistemleri  
+- 🧠 **Programlama Dilleri** → C#, Python, Arduino (C++)  
+
+---
+
+## 🧰 Kullandığım Araçlar ve Teknolojiler
+<img src="https://skillicons.dev/icons?i=arduino,html,css,js,python,cs,firebase,linux,vscode,github" />
+
+---
+
+## 📊 GitHub İstatistikleri
+![Selman's GitHub stats](https://github-readme-stats.vercel.app/api?username=selmancuzdan42&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selmancuzdan42&layout=compact&theme=tokyonight)
+
+---
+
+## 🧠 Şu Anda Üzerinde Çalışıyorum
+- 🌡️ **ESP8266 Tabanlı Otonom Çevresel Veri İzleme Sistemi**  
+- 🔒 **CTF ve siber güvenlik çalışmaları**  
+- 💻 **Kendi web tabanlı mini projelerim**
+
+---
+
+## 📫 Bana Ulaş
+- 💬 Discord: `fellix__`  
+- 📧 E-posta: [selmanfarisicuzdan@gmail.com](mailto:selmanfarisicuzdan@gmail.com)  
+- 🌍 GitHub: [github.com/selmancuzdan42](https://github.com/selmancuzdan42)
+
+---
+
+> “Kod yazmak sadece bir beceri değil, bir **düşünme biçimi**dir.”  
+> — Selman Cüzdan 💻🔥
