@@ -1,7 +1,7 @@
 # Selman Cüzdan 👨‍💻
 
-Merhaba! Ben **Selman**, 11. sınıf bilişim teknolojileri öğrencisiyim. Teknolojiye, yazılıma ve özellikle **IoT (Nesnelerin İnterneti)** sistemlerine büyük ilgi duyuyorum. 🚀  
-Şu anda hem **Arduino** hem de **ESP8266 (NodeMCU V3)** kartlarıyla projeler geliştiriyorum. Ayrıca **siber güvenlik**, **web geliştirme** ve **oyun geliştirme** konularına da meraklıyım.
+Merhaba! Ben **Selman**, 11. sınıf bilişim teknolojileri öğrencisiyim. Teknoloji ve yazılıma, özellikle **Siber Güvenlik** alanına büyük ilgi duyuyorum 🚀  
+Şu anda **CTF yarışmalarına katılıyor**, **IoT projeleri** geliştiriyor ve **Web Geliştirme** konularında deneyim kazanıyorum.
 
 ---
 
