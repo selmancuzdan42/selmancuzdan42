@@ -36,7 +36,7 @@ Merhaba! Ben **Selman**, 11. sınıf bilişim teknolojileri öğrencisiyim. Tekn
 - 💬 Discord: `fellix__`  
 - 📧 E-posta: [selmanfarisicuzdan@gmail.com](mailto:selmanfarisicuzdan@gmail.com)  
 - 🌍 GitHub: [github.com/selmancuzdan42](https://github.com/selmancuzdan42)
-- 🔗 LinkedIn: [Selman Cüzdan](https://www.linkedin.com/in/selman-cüzdan-689447389/)
+- 🔗 LinkedIn: [Selman Cüzdan](https://www.linkedin.com/in/selman-cüzdan)
 
 ---
 
