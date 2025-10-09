@@ -30,13 +30,14 @@ Merhaba! Ben **Selman**, 11. sınıf bilişim teknolojileri öğrencisiyim. Tekn
 - 🌡️ **ESP8266 Devre Kartını Kullanarak Çeşitli Projeler**  
 - 🔒 **CTF ve siber güvenlik çalışmaları**  
 - 💻 **Kendi web tabanlı mini projelerim**
-
+  
 ---
 
 ## 📫 Bana Ulaş
 - 💬 Discord: `fellix__`  
 - 📧 E-posta: [selmanfarisicuzdan@gmail.com](mailto:selmanfarisicuzdan@gmail.com)  
 - 🌍 GitHub: [github.com/selmancuzdan42](https://github.com/selmancuzdan42)
+- 🔗 LinkedIn: [Selman Cüzdan](https://www.linkedin.com/in/selman-cüzdan-689447389/)
 
 ---
 
