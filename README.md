@@ -9,7 +9,6 @@ Merhaba! Ben **Selman**, 11. sınıf bilişim teknolojileri öğrencisiyim. Tekn
 - 🔌 **IoT Projeleri** → Sensör verilerini izleme, otomasyon sistemleri  
 - 🛡️ **Siber Güvenlik** → Kali Linux, CTF yarışmaları, ağ güvenliği  
 - 🌐 **Web Geliştirme** → HTML, CSS, JavaScript, Firebase  
-- ⚙️ **Arduino & ESP8266** → DHT11, manyetik sensör, buzzer, LED sistemleri  
 - 🧠 **Programlama Dilleri** → C#, Python, Arduino (C++)  
 
 ---
