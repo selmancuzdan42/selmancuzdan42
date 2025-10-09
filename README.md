@@ -42,3 +42,8 @@ Merhaba! Ben **Selman**, 11. sınıf bilişim teknolojileri öğrencisiyim. Tekn
 
 > “Kod yazmak sadece bir beceri değil, bir **düşünme biçimi**dir.”  
 > — Selman Cüzdan 💻🔥
+
+<p align="center">
+  <img src="https://github.com/selmancuzdan42/selmancuzdan42/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
