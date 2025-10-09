@@ -15,7 +15,7 @@ Merhaba! Ben **Selman**, 11. sınıf bilişim teknolojileri öğrencisiyim. Tekn
 ---
 
 ## 🧰 Kullandığım Araçlar ve Teknolojiler
-<img src="https://skillicons.dev/icons?i=arduino,html,css,js,python,cs,firebase,linux,vscode,github" />
+<img src="https://skillicons.dev/icons?i=arduino,html,css,js,python,cs,firebase,linux,vscode,github,kali" />
 
 ---
 
@@ -27,7 +27,7 @@ Merhaba! Ben **Selman**, 11. sınıf bilişim teknolojileri öğrencisiyim. Tekn
 ---
 
 ## 🧠 Şu Anda Üzerinde Çalışıyorum
-- 🌡️ **ESP8266 Tabanlı Otonom Çevresel Veri İzleme Sistemi**  
+- 🌡️ **ESP8266 Devre Kartını Kullanarak Çeşitli Projeler**  
 - 🔒 **CTF ve siber güvenlik çalışmaları**  
 - 💻 **Kendi web tabanlı mini projelerim**
 
