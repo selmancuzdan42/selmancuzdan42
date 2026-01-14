@@ -1,5 +1,7 @@
 # Selman Cüzdan 👨‍💻
 
+![Logo](logo.svg)
+
 Merhaba! Ben **Selman**, 11. sınıf bilişim teknolojileri öğrencisiyim. Teknoloji ve yazılıma, özellikle **Siber Güvenlik** alanına büyük ilgi duyuyorum 🚀  
 Şu anda **CTF yarışmalarına katılıyor**, **IoT projeleri** geliştiriyor ve **Web Geliştirme** konularında deneyim kazanıyorum.
 
@@ -43,7 +45,4 @@ Merhaba! Ben **Selman**, 11. sınıf bilişim teknolojileri öğrencisiyim. Tekn
 > “Kod yazmak sadece bir beceri değil, bir **düşünme biçimi**dir.”  
 > — Selman Cüzdan 💻🔥
 
-<p align="center">
-  <img src="https://github.com/selmancuzdan42/selmancuzdan42/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
 
