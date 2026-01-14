@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 120" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="32" style="background-color: transparent;">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@500&amp;display=swap');
+      .green { fill: #00FF41; }
+      .blue { fill: #00D9FF; }
+      .gray { fill: #b0b0b0; }
+      .cursor { animation: blink 1s step-end infinite; fill: #00FF41; }
+      @keyframes blink { 50% { opacity: 0; } }
+      text { font-family: 'JetBrains Mono', monospace; font-weight: 500; }
+    </style>
+  </defs>
+  <text x="20" y="50">
+    <tspan class="green">┌──[</tspan><tspan class="green">root@</tspan><tspan class="blue">selman</tspan><tspan class="green">]</tspan>
+  </text>
+  <text x="20" y="95">
+    <tspan class="green">└─$</tspan> <tspan class="cursor">_</tspan>
+  </text>
+</svg>
