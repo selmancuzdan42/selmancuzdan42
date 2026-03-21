@@ -17,9 +17,15 @@ Merhaba! Ben **Selman**, 11. sınıf bilişim teknolojileri öğrencisiyim.
 
 ---
 
-## 🧰 Diller & Geliştirme Araçları
+## 💻 Diller
 
-<img src="https://skillicons.dev/icons?i=python,cs,java,c,bash,html,css,js,arduino,androidstudio,linux,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,cs,java,c,bash,html,css,js,arduino" />
+
+---
+
+## 🛠️ Geliştirme Araçları
+
+<img src="https://skillicons.dev/icons?i=androidstudio,linux,git,github,vscode" />
 
 ---
 
