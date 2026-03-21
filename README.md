@@ -2,47 +2,63 @@
 
 ![Logo](logo.svg)
 
-Merhaba! Ben **Selman**, 11. sınıf bilişim teknolojileri öğrencisiyim. Teknoloji ve yazılıma, özellikle **Siber Güvenlik** alanına büyük ilgi duyuyorum 🚀  
-Şu anda **CTF yarışmalarına katılıyor**, **IoT projeleri** geliştiriyor ve **Web Geliştirme** konularında deneyim kazanıyorum.
+Merhaba! Ben **Selman**, 11. sınıf bilişim teknolojileri öğrencisiyim.  
+**Mobile Security** ve **Web Security (Bug Bounty)** alanlarına odaklanıyorum. CTF yarışmalarına katılıyor, IoT projeleri geliştiriyor ve offensive security üzerine çalışıyorum.
 
 ---
 
-## 💡 İlgi Alanlarım
-- 🔌 **IoT Projeleri** → Sensör verilerini izleme, otomasyon sistemleri  
-- 🛡️ **Siber Güvenlik** → Kali Linux, CTF yarışmaları, ağ güvenliği  
-- 🌐 **Web Geliştirme** → HTML, CSS, JavaScript, Firebase  
-- 🧠 **Programlama Dilleri** → C#, Python, Arduino (C++)  
+## 💡 İlgi Alanları
+
+- 📱 **Mobile Security** → Android APK analiz, Frida hooking, native .so reverse engineering
+- 🐛 **Bug Bounty** → HackerOne, Bugcrowd — web uygulama güvenliği
+- 🏁 **CTF** → RE, pwn, web, forensics, crypto, steganografi, mobile
+- 🔌 **IoT / Embedded** → ESP32, LoRa, sensör projeleri
+- 🌐 **Web Geliştirme** → Bootstrap 5, proje siteleri
 
 ---
 
-## 🧰 Kullandığım Araçlar ve Teknolojiler
-<img src="https://skillicons.dev/icons?i=arduino,html,css,js,python,cs,firebase,linux,vscode,github,kali" />
+## 🧰 Diller & Geliştirme Araçları
+
+<img src="https://skillicons.dev/icons?i=python,cs,java,c,bash,html,css,js,arduino,androidstudio,linux,git,github,vscode" />
+
+---
+
+## 🛡️ Güvenlik Araçları
+
+<img src="https://skillicons.dev/icons?i=kali" />
+
+**RE:** Ghidra, jadx, IDA (lite), x64dbg  
+**Mobile:** Frida, objection, apktool, MobSF, ADB  
+**Web:** Burp Suite, sqlmap, ffuf, nuclei  
+**Network:** Wireshark, Nmap, Masscan  
+**Forensics:** Volatility, Autopsy, binwalk  
+**Exploit:** pwntools, ROPgadget, GDB-pwndbg  
+
+---
+
+## 🚀 Şu Anda Üzerinde Çalışıyorum
+
+- 📡 **QuakeGuard** — ESP32 + LoRa 868MHz deprem kurtarma giyilebiliri, Android app (OSMDroid)
+- 🔄 **RollbackX** — Pardus için Btrfs/LVM/Rsync snapshot yöneticisi
 
 ---
 
 ## 📊 GitHub İstatistikleri
+
 ![Selman's GitHub stats](https://github-readme-stats.vercel.app/api?username=selmancuzdan42&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selmancuzdan42&layout=compact&theme=tokyonight)
 
 ---
 
-## 🧠 Şu Anda Üzerinde Çalışıyorum
-- 🌡️ **ESP8266 Devre Kartını Kullanarak Çeşitli Projeler**  
-- 🔒 **CTF ve siber güvenlik çalışmaları**  
-- 💻 **Kendi web tabanlı mini projelerim**
-  
----
-
 ## 📫 Bana Ulaş
-- 💬 Discord: `fellix__`  
-- 📧 E-posta: [selmanfarisicuzdan@gmail.com](mailto:selmanfarisicuzdan@gmail.com)  
+
+- 💬 Discord: `fellix__`
+- 📧 E-posta: [selmanfarisicuzdan@gmail.com](mailto:selmanfarisicuzdan@gmail.com)
 - 🌍 GitHub: [github.com/selmancuzdan42](https://github.com/selmancuzdan42)
 - 🔗 LinkedIn: [Selman Cüzdan](https://www.linkedin.com/in/selman-cüzdan)
 
 ---
 
-> “Kod yazmak sadece bir beceri değil, bir **düşünme biçimi**dir.”  
+> "Kod yazmak sadece bir beceri değil, bir **düşünme biçimi**dir."  
 > — Selman Cüzdan 💻🔥
-
-
